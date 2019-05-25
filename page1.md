@@ -24,9 +24,12 @@ app is far enough along to use a db
     $ touch README.md page1.md .gitignore articleides.md
     $ echo articleideas.md >> .gitignore
     $ git remote add origin https://github.com/obscure-shadow/moneymachine.git
+    $ git add all && git push origin master
+    $ git checkout branch boilerplate
 
     ```
+    - note i have alias for a lot of this stuff I will talk about that later
 - start writing a bulleted outline of what I'm doing in page1.md
 - will become the outline of my first article
 - now we are ready to start coding
-    - gonna follow this tutorial for the basics: 
+    - gonna use code from this tutorial for initial boilerplate

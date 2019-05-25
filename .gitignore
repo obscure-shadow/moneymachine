@@ -1,2 +1,4 @@
 .idea
 articleideas.md
+db.sqlite3
+./blog/migrations
