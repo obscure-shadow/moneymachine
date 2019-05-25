@@ -31,5 +31,9 @@ app is far enough along to use a db
     - note i have alias for a lot of this stuff I will talk about that later
 - start writing a bulleted outline of what I'm doing in page1.md
 - will become the outline of my first article
-- now we are ready to start coding
-    - gonna use code from this tutorial for initial boilerplate
+- now we are ready to start coding use this tutorial: 
+    - https://scotch.io/@CleverProgrammer/how-to-make-a-django-blog-app
+    - done with boilerplate
+    - fuck around with requirements.txt, pip-compile and pipdeptree for 
+    an hour or so
+- need to start a kanban board (wtf is up with that? i'll write about that later)
